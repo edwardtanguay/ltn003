@@ -6,10 +6,14 @@ export const PageWelcome = () => {
 
 			<h2>Hilfsmittel im Internet</h2>
 			<p><a href="https://google.com">Google</a></p>
+			<p><a href="https://udemy.com">Udemy</a></p>
+			<p><a href="https://youtube.com">YouTube</a></p>
+			<p><a href="https://stackoverflow.com">Stack Overflow</a></p>
+			<p><a href="https://chat.openai.com/chat">ChatGPT</a></p>
 			<h2>Meine Webentwickler Sites</h2>
 			<p><a href="https://edwardtanguay.vercel.app/howtos">Edward's Howtos</a></p>
 			<p><a href="https://starters.tanguay.eu">Edward's Starter Sites</a></p>
-			<p><a href="https://jobs.tanguay.eu">Edward's Webentwickler Jobs in Deutschland</a></p>
+			<p><a href="https://jobs.tanguay.eu">Edward's Job Site</a></p>
 
 			    <h2>Video Sample</h2>
     <iframe width="360" height="315" src="https://www.youtube.com/embed/HlzAtIHFRk0" title="YouTube video player"

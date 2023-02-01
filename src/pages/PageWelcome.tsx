@@ -15,12 +15,12 @@ export const PageWelcome = () => {
 			<p><a href="https://starters.tanguay.eu">Edward's Starter Sites</a></p>
 			<p><a href="https://jobs.tanguay.eu">Edward's Job Site</a></p>
 
+			<h2>Webentwicklung leicht gemacht</h2>
+			<p><a href="https://ltn001.netlify.app">Zur HTML/CSS/JavaScript Site</a></p>
 			    <h2>Video Sample</h2>
     <iframe width="360" height="315" src="https://www.youtube.com/embed/HlzAtIHFRk0" title="YouTube video player"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         ></iframe>
-			<h2>Webentwicklung leicht gemacht</h2>
-			<p><a href="https://ltn001.netlify.app">Zur HTML/CSS/JavaScript Site</a></p>
 		</>
 	);
 };
